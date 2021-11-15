@@ -1,6 +1,6 @@
 # :man_technologist: Tiago Granelli Ribeiro
 
-I'm a 21 year old junior front-end developer from São Paulo, Brazil, and I'm studying to become a **Full Stack Developer**. I am currently looking for opportunities. I love to learn and contribute in every way possible. I'm passionate about technology, people, music and especially games.
+I'm a 21 year old front-end developer from São Paulo, Brazil, and I'm studying to become a **Full Stack Developer**. I am currently looking for opportunities. I love to learn and contribute in every way possible. I'm passionate about technology, people, music and especially games.
 
 - 🌱 I’m currently learning  ReactJS | NextJs.
 - 💬 Ask me about Javascript / TypeScript, Node.js/Express.js.
